@@ -37,13 +37,13 @@ A cute and powerful notepad application for coding and writing, built with Pytho
 ## 🚀 Installation
 
 ### Option 1: Download Executable (Recommended)
-1. Download the latest `DooshyPad.exe` from the [Releases](https://github.com/yourusername/dooshypad/releases) page
+1. Download the latest `DooshyPad.exe` from the [Releases](https://github.com/dooshyy/DooshyPad/releases) page
 2. Run the executable - no installation required!
 
 ### Option 2: From Source
 1. Clone the repository:
    ```bash
-   git clone https://github.com/dooshyy/dooshypad.git
+   git clone https://github.com/DooshyPad/DooshyPad.git
    cd dooshypad
    ```
 
