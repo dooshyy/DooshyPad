@@ -47,7 +47,7 @@ A cute and powerful notepad application for coding and writing, built with Pytho
    cd dooshypad
    ```
 
-2. Install dependencies:
+2. Open the app ( this is simple :3 ):
    ```bash
    open dooshypad.exe
    ```
