@@ -1,0 +1,51 @@
+                      ---  DooshyPad Change Log  ---
+
+                     Last updated: December 19, 2025
+
+                            . Version 1.0 .
+
+✨ New Features:
+
+- Standalone executable build with custom icon
+- Comprehensive README.md documentation with screenshots placeholders
+- Added Ocean Blue and Forest Green themes
+- Improved PyInstaller compatibility for bundled applications
+- Enhanced icon handling for both development and executable modes
+
+🔧 Technical Improvements:
+
+- Fixed iconbitmap path resolution for PyInstaller bundled executables
+- Added proper error handling for icon loading
+- Updated build process with custom icon integration
+- Improved executable packaging with all assets included
+
+                       Version 1.0 (Initial Release)
+
+✨ Features:
+
+- Custom pink-themed interface with your logo
+- Syntax highlighting for: Python, C++, C#, JavaScript, CSS, Rust
+- Custom title bar with minimize/maximize/close buttons
+- Sound effects for typing and clicks
+- Multiple themes (Pink, Pastel, Sakura, Dark Pink)
+- Settings for opacity, blur, auto-save
+- File operations (New, Open, Save, Save As)
+- Find and Replace functionality
+- Line numbers
+- Status bar with file info
+- Auto-save every 30 seconds
+- Change log viewer
+
+🔧 Technical:
+
+- Built with Python and Tkinter
+- Modular design with separate managers
+- JSON-based settings
+- Sound system using Pygame
+- Animation system for smooth transitions
+
+💕 Notes:
+
+- This is my first version of DooshyPad!
+- I'll be adding more features regularly
+- Feel free to customize and add your own touches!
